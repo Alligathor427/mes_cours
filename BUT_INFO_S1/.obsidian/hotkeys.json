@@ -1,0 +1,35 @@
+{
+  "editor:toggle-highlight-blue": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "End"
+    }
+  ],
+  "editor:toggle-highlight-yellow": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:toggle-highlight-orange": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "PageDown"
+    }
+  ],
+  "editor:toggle-highlight-red": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "obsidian-excalidraw-plugin:save": []
+}

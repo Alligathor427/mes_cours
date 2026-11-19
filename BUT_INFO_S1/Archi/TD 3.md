@@ -53,3 +53,6 @@ Chaque résultat partiel obtenu est ensuite **décalé vers la gauche** d'un cra
 - **Décalage** : Un décalage à gauche équivaut à une multiplication par 2.
     
 - **Taille du résultat** : Le produit de deux nombres de M et N bits nécessite au maximum M+N bits.
+
+
+

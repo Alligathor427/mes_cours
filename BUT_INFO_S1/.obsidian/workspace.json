@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e35f35cc25ba8144",
+        "id": "7be9c2ac825d2f96",
         "type": "tabs",
         "children": [
           {
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Comandes GIt/git and github comandes.md",
+                "file": "Archi/TD 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Comandes GIt/git and github comandes.md",
+                "file": "Archi/TD 3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,11 +185,31 @@
       "daily-notes:Ouvrir la note quotidienne": false,
       "templates:Insérer le modèle": false,
       "command-palette:Ouvrir la palette de commandes": false,
-      "bases:Créer une nouvelle base": false
+      "bases:Créer une nouvelle base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "gemini-scribe:Gemini Scribe : Mode agent": false
     }
   },
   "active": "3875c40f505f2b90",
   "lastOpenFiles": [
-    "Comandes GIt/comandes git.md"
+    "Comandes GIt/comandes git.md",
+    "Archi/TD4.md",
+    "Archi/td3-exos.pdf",
+    "Drawing 2026-11-19 10.44.41.excalidraw.md",
+    "Archi/TD 3.md",
+    "gemini-scribe/Prompts/example-expert.md",
+    "gemini-scribe/Scheduled-Tasks/scheduled-tasks-state.json",
+    "gemini-scribe/Scheduled-Tasks/Runs",
+    "gemini-scribe/Scheduled-Tasks",
+    "gemini-scribe/Skills",
+    "gemini-scribe/Prompts",
+    "gemini-scribe/Background-Tasks",
+    "gemini-scribe/Agent-Sessions",
+    "gemini-scribe",
+    "Drawing 2026-11-19 10.44.14.excalidraw.md",
+    "Sans titre.md",
+    "Archi/Non confirmé 166321.crdownload",
+    "Comandes GIt/git and github comandes.md"
   ]
 }
