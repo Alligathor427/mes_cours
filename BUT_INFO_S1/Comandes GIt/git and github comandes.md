@@ -66,16 +66,16 @@
 
 ### 4. Gérer les branches (Travail en équipe)
 
-|Action|Commande|Description|
-|---|---|---|
-|**Savoir sur quelle branche on est**|`git branch --show-current`|Affiche uniquement le nom de ta branche active|
-|**Lister toutes les branches**|`git branch -a`|Montre les branches locales et celles sur GitHub|
-|**Mettre à jour la liste distante**|`git fetch --all`|Récupère les nouvelles branches créées par les autres|
-|**Changer de branche**|`git checkout nom-branche`|Bascule sur une branche existante (locale ou distante)|
-|**Créer et ouvrir une branche**|`git checkout -b ma-branche`|Crée une nouvelle branche et te place dessus|
-|**Pousser une nouvelle branche**|`git push -u origin ma-branche`|Publie ta branche locale sur GitHub (1re fois uniquement)|
-|**Fusionner une branche**|`git merge autre-branche`|Intègre le code d'une branche dans celle où tu te trouves|
-|**Supprimer une branche locale**|`git branch -d nom-branche`|Supprime une branche locale déjà fusionnée|
+| Action                               | Commande                        | Description                                               |
+| ------------------------------------ | ------------------------------- | --------------------------------------------------------- |
+| **Savoir sur quelle branche on est** | `git branch --show-current`     | Affiche uniquement le nom de ta branche active            |
+| **Lister toutes les branches**       | `git branch -a`                 | Montre les branches locales et celles sur GitHub          |
+| **Mettre à jour la liste distante**  | `git fetch --all`               | Récupère les nouvelles branches créées par les autres     |
+| **Changer de branche**               | `git checkout nom-branche`      | Bascule sur une branche existante (locale ou distante)    |
+| **Créer et ouvrir une branche**      | `git checkout -b ma-branche`    | Crée une nouvelle branche et te place dessus              |
+| **Pousser une nouvelle branche**     | `git push -u origin ma-branche` | Publie ta branche locale sur GitHub (1re fois uniquement) |
+| **Fusionner une branche**            | `git merge autre-branche`       | Intègre le code d'une branche dans celle où tu te trouves |
+| **Supprimer une branche locale**     | `git branch -d nom-branche`     | Supprime une branche locale déjà fusionnée                |
 
 ### 5. Historique et annulation d'erreurs
 
